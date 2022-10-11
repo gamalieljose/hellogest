@@ -1,0 +1,179 @@
+.contenedor_categorias
+{
+float: left;
+width: 120px;
+height: 120px;
+margin: 5px;
+
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    text-align: center;
+
+-webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  color: #ffffff;
+  font-size: 16px;
+  background: #3498db;
+  border: solid #1f628d 2px;
+  text-decoration: none;
+    
+}
+
+
+.contenedor_producto
+{
+float: left;
+width: 120px;
+height: 120px;
+margin: 5px;
+
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    text-align: center;
+
+-webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  color: #ffffff;
+  font-size: 16px;
+  background: #07ad0c;
+  border: solid #1f628d 2px;
+  text-decoration: none;
+    
+}
+
+
+.tecladopantalla {
+    display: none;
+    background: #e6e6e6;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -200px;
+    margin-left: -200px;
+    width: 450px;
+    height: 400px;
+    font-size: 24px;
+    border-style: solid;
+	z-index: 2000;
+	
+
+}
+
+.tecladopantallaqwerty {
+    display: none;
+    background: #e6e6e6;
+    position: fixed;
+    top: 50%;
+    left: 30%;
+    margin-top: -200px;
+    margin-left: -200px;
+    width: 960px;
+    height: 460px;
+    font-size: 24px;
+    border-style: solid;
+	z-index: 2000;
+	
+
+}
+
+.fondonegro{
+     display: none;
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 100%;
+     height: 100%;
+     background: #000;
+     z-index:1001;
+     opacity:.75;
+     -moz-opacity: 0.75;
+     filter: alpha(opacity=75);
+}
+
+.btnteclado {
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  color: #000000;
+  font-size: 20px;
+  background: #c2c8cc;
+  padding: 20px 35px 20px 35px;
+  text-decoration: none;
+}
+
+.btnteclado:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+
+.btnteclado_rojo {
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  color: #ffffff;
+  font-size: 20px;
+  background: #ff1a1a;
+  padding: 20px 35px 20px 35px;
+  text-decoration: none;
+}
+
+.btnteclado_rojo:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+
+.btnteclado_verde {
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  color: #000000;
+  font-size: 20px;
+  background: #009933;
+  padding: 20px 35px 20px 35px;
+  text-decoration: none;
+}
+
+.btnteclado_verde:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+
+
+
+.btntecladoqwety {
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  color: #000000;
+  font-size: 20px;
+  background: #c2c8cc;
+  padding: 20px 25px 20px 25px;
+  text-decoration: none;
+}
+
+.btntecladoqwety:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+
+.btntecladoqwetymayuson {
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  color: #000000;
+  font-size: 20px;
+  background: #3cb0fd;
+  padding: 20px 25px 20px 25px;
+  text-decoration: none;
+}
+
+.btntecladoqwetymayuson:hover {
+  background: #c2c8cc;
+  text-decoration: none;
+}

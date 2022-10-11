@@ -1,0 +1,6 @@
+<?php
+
+	$numscreen = "";
+	$displaytitle = "Backups";
+
+?>

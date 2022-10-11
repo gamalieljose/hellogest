@@ -1,0 +1,59 @@
+.btnprincipal {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #3498db;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btnprincipal:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+
+.btncancelar {
+  background: #eb6ca5;
+  background-image: -webkit-linear-gradient(top, #eb6ca5, #2980b9);
+  background-image: -moz-linear-gradient(top, #eb6ca5, #2980b9);
+  background-image: -ms-linear-gradient(top, #eb6ca5, #2980b9);
+  background-image: -o-linear-gradient(top, #eb6ca5, #2980b9);
+  background-image: linear-gradient(to bottom, #eb6ca5, #2980b9);
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #eb6ca5;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btncancelar:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+
+.btnenviar {
+  background: #1599a5;
+  background-image: -webkit-linear-gradient(top, #1599a5, #2980b9);
+  background-image: -moz-linear-gradient(top, #1599a5, #2980b9);
+  background-image: -ms-linear-gradient(top, #1599a5, #2980b9);
+  background-image: -o-linear-gradient(top, #1599a5, #2980b9);
+  background-image: linear-gradient(to bottom, #1599a5, #2980b9);
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #1599a5;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btnenviar:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
